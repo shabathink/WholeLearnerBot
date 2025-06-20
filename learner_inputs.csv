@@ -1,0 +1,6 @@
+input_text,emotion,motivation,expected_bloom
+I feel stuck,frustration,low,apply
+I'm improving in this topic,joy,high,evaluate
+I'm confused again,frustration,low,understand
+This is going great!,joy,high,create
+I'm totally lost,sadness,low,remember
