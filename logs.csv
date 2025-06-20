@@ -1,0 +1,4 @@
+user_id,input_text,emotion,tier,response,sef_score
+101,I feel stuck,frustration,1,Let's start with an example to help you get unstuck.,0.91
+102,I'm improving in this topic,joy,3,Great! Try designing a real-world project for this topic.,0.88
+103,I'm totally lost,sadness,1,Let's break it down into basics together.,0.87
